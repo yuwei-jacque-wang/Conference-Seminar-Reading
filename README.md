@@ -1,2 +1,2 @@
-# Conference-Seminar-Reading
-Casual study notes from conferences, seminars, and data science readings 
+# Conference, Seminar, Reading
+Casual study notes I took from conferences, seminars, and data science readings 
