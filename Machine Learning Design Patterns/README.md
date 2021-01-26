@@ -1,4 +1,4 @@
-## Data Science for Business
+## Machine Learning Design Patterns (by Valliappa Lakshmanan, Sara Robinson, Michael Munn)
 
 Reading Notes
 
